@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/MaximizingP2PFileSharingClient/src/maximizingp2pfilesharingclient/MaximizingP2PFileSharingClientMain.java</file>
+            <file>file:/E:/MaximizingP2PFileSharingClient/src/maximizingp2pfilesharingserver/algorithms/PCS_Algorithms.java</file>
+            <file>file:/E:/MaximizingP2PFileSharingClient/src/maximizingp2pfilesharingserver/server/ServerCallback.java</file>
+            <file>file:/E:/MaximizingP2PFileSharingClient/src/maximizingp2pfilesharingserver/server/ServerThread.java</file>
+            <file>file:/E:/MaximizingP2PFileSharingClient/src/maximizingp2pfilesharingclient/client/ClientCallback.java</file>
+            <file>file:/E:/MaximizingP2PFileSharingClient/src/maximizingp2pfilesharingclient/HexDecoder_1.java</file>
+            <file>file:/E:/MaximizingP2PFileSharingClient/src/maximizingp2pfilesharingclient/Globals.java</file>
+            <file>file:/E:/MaximizingP2PFileSharingClient/src/maximizingp2pfilesharingclient/HexDecoder.java</file>
+            <file>file:/E:/MaximizingP2PFileSharingClient/src/maximizingp2pfilesharingclient/MaximizingP2PFileSharingClient.java</file>
+            <file>file:/E:/MaximizingP2PFileSharingClient/src/maximizingp2pfilesharingclient/client/ClientThread.java</file>
+            <file>file:/E:/MaximizingP2PFileSharingClient/src/maximizingp2pfilesharingclient/ReplicateFileDialog.java</file>
+            <file>file:/E:/MaximizingP2PFileSharingClient/src/maximizingp2pfilesharingclient/ConsoleRedirect.java</file>
+        </group>
+    </open-files>
+</project-private>
